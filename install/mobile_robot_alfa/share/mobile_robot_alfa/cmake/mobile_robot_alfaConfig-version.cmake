@@ -1,0 +1,1 @@
+/home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/build/mobile_robot_alfa/ament_cmake_core/mobile_robot_alfaConfig-version.cmake

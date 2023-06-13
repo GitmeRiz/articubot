@@ -1,0 +1,9 @@
+/home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/build/mobile_robot_alfa/CMakeFiles/uninstall.dir
+/home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/build/mobile_robot_alfa/CMakeFiles/mobile_robot_alfa_uninstall.dir
+/home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/build/mobile_robot_alfa/CMakeFiles/test.dir
+/home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/build/mobile_robot_alfa/CMakeFiles/edit_cache.dir
+/home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/build/mobile_robot_alfa/CMakeFiles/rebuild_cache.dir
+/home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/build/mobile_robot_alfa/CMakeFiles/list_install_components.dir
+/home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/build/mobile_robot_alfa/CMakeFiles/install.dir
+/home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/build/mobile_robot_alfa/CMakeFiles/install/local.dir
+/home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/build/mobile_robot_alfa/CMakeFiles/install/strip.dir

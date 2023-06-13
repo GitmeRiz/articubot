@@ -1,0 +1,22 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/install/mobile_robot_alfa/share/mobile_robot_alfa/config/empty.yaml
+-- Up-to-date symlink: /home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/install/mobile_robot_alfa/share/mobile_robot_alfa/description/robot.urdf.xacro
+-- Up-to-date symlink: /home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/install/mobile_robot_alfa/share/mobile_robot_alfa/description/robot_core.xacro
+-- Up-to-date symlink: /home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/install/mobile_robot_alfa/share/mobile_robot_alfa/launch/rsp.launch.py
+-- Up-to-date symlink: /home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/install/mobile_robot_alfa/share/mobile_robot_alfa/worlds/empty.world
+-- Up-to-date symlink: /home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/install/mobile_robot_alfa/share/ament_index/resource_index/package_run_dependencies/mobile_robot_alfa
+-- Up-to-date symlink: /home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/install/mobile_robot_alfa/share/ament_index/resource_index/parent_prefix_path/mobile_robot_alfa
+-- Up-to-date symlink: /home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/install/mobile_robot_alfa/share/mobile_robot_alfa/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/install/mobile_robot_alfa/share/mobile_robot_alfa/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/install/mobile_robot_alfa/share/mobile_robot_alfa/environment/path.sh
+-- Up-to-date symlink: /home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/install/mobile_robot_alfa/share/mobile_robot_alfa/environment/path.dsv
+-- Up-to-date symlink: /home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/install/mobile_robot_alfa/share/mobile_robot_alfa/local_setup.bash
+-- Up-to-date symlink: /home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/install/mobile_robot_alfa/share/mobile_robot_alfa/local_setup.sh
+-- Up-to-date symlink: /home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/install/mobile_robot_alfa/share/mobile_robot_alfa/local_setup.zsh
+-- Up-to-date symlink: /home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/install/mobile_robot_alfa/share/mobile_robot_alfa/local_setup.dsv
+-- Symlinking: /home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/install/mobile_robot_alfa/share/mobile_robot_alfa/package.dsv
+-- Up-to-date symlink: /home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/install/mobile_robot_alfa/share/ament_index/resource_index/packages/mobile_robot_alfa
+-- Up-to-date symlink: /home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/install/mobile_robot_alfa/share/mobile_robot_alfa/cmake/mobile_robot_alfaConfig.cmake
+-- Up-to-date symlink: /home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/install/mobile_robot_alfa/share/mobile_robot_alfa/cmake/mobile_robot_alfaConfig-version.cmake
+-- Up-to-date symlink: /home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/install/mobile_robot_alfa/share/mobile_robot_alfa/package.xml
