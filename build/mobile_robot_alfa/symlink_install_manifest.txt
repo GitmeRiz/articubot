@@ -1,7 +1,9 @@
 /home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/install/mobile_robot_alfa/share/mobile_robot_alfa/config/empty.yaml
+/home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/install/mobile_robot_alfa/share/mobile_robot_alfa/description/gazebo_control.xacro
 /home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/install/mobile_robot_alfa/share/mobile_robot_alfa/description/inertial_macros.xacro
 /home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/install/mobile_robot_alfa/share/mobile_robot_alfa/description/robot.urdf.xacro
 /home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/install/mobile_robot_alfa/share/mobile_robot_alfa/description/robot_core.xacro
+/home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/install/mobile_robot_alfa/share/mobile_robot_alfa/launch/launch_sim.launch.py
 /home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/install/mobile_robot_alfa/share/mobile_robot_alfa/launch/rsp.launch.py
 /home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/install/mobile_robot_alfa/share/mobile_robot_alfa/worlds/empty.world
 /home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/install/mobile_robot_alfa/share/ament_index/resource_index/package_run_dependencies/mobile_robot_alfa

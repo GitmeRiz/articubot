@@ -1,0 +1,1 @@
+/home/gitmeriz/Desktop/Robotika/mobile_robot_alfa/launch/launch_sim.launch.py
